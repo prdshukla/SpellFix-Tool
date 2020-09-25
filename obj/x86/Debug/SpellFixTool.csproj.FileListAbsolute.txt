@@ -1,0 +1,9 @@
+C:\1 OfficeWork\Dev Bench\2013\SpellFixTool\SpellFixTool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\1 OfficeWork\Dev Bench\2013\SpellFixTool\SpellFixTool\obj\x86\Debug\SpellFixTool.Form1.resources
+C:\1 OfficeWork\Dev Bench\2013\SpellFixTool\SpellFixTool\obj\x86\Debug\SpellFixTool.Properties.Resources.resources
+C:\1 OfficeWork\Dev Bench\2013\SpellFixTool\SpellFixTool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\1 OfficeWork\Dev Bench\2013\SpellFixTool\SpellFixTool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\1 OfficeWork\Dev Bench\2013\SpellFixTool\SpellFixTool\bin\Debug\SpellFixTool.exe
+C:\1 OfficeWork\Dev Bench\2013\SpellFixTool\SpellFixTool\bin\Debug\SpellFixTool.pdb
+C:\1 OfficeWork\Dev Bench\2013\SpellFixTool\SpellFixTool\obj\x86\Debug\SpellFixTool.exe
+C:\1 OfficeWork\Dev Bench\2013\SpellFixTool\SpellFixTool\obj\x86\Debug\SpellFixTool.pdb
